@@ -13,8 +13,8 @@ We will provide the full set of stimuli from the Switchboard corpus along with t
 The survey was contructed through Qualtrics and presented to participants through Prolific Academic. 
 
 Examples of the stimuli presentation are included here.
-- Lexical condition: `file_id` contains a screenshot
-- Acoustic condition: [this link](https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_cBg4zwtjHYAlZB4) will take you to an example stimulus. PLEASE NOTE this link contains identifiable information. 
+- Lexical condition: we provide a screenshot of both a stimuli question (`lexical_stimuli`), and a check question (`lexical_check`)
+- Acoustic condition: [this link](https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_cBg4zwtjHYAlZB4) will take you to an example stimulus. PLEASE NOTE this link contains partially identifiable information. 
 
 ## Abstract
-...
+Speech is a fundamental means of communication and can be seen to provide two channels for transmitting information: the lexical channel of *which* words are said, and the non-lexical channel of *how* they are spoken. Both channels are known to shape listener expectations of upcoming communication; however, directly quantifying their relative contributions is difficult, with previous attempts requiring spoken variations of lexically-equivalent dialogue turns. This paper presents a generalised paradigm to study the value of non-lexical information across unconstrained lexical content. By quantifying the perceptual value of the non-lexical channel with both accuracy and entropy-reduction, we show that the non-lexical information produces a consistent effect on human expectations of upcoming dialogue, even when it leads to poorer discriminative turn judgements than in lexical-only conditions.
