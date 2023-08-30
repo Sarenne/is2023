@@ -1,4 +1,6 @@
-# Stimuli page for Interspeech 2023 submission
+# Interspeech 2023 stimuli page 
+
+[(Link to the paper)](https://www.isca-speech.org/archive/interspeech_2023/wallbridge23_interspeech.html)
 
 ## Overview
 This companion page contains examples of the stimuli presented to participants in both the acoustic and lexical conditions, as well as an anonymous print of our previous work. 
